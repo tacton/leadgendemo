@@ -16,4 +16,4 @@ To use Tacton CPQ Visualization a developer should edit index.html file with cor
 
 To deploy application, simply copy all files to your web server (Apache or Nginx) and navigate to http://your_server/
 
-To debug and get aquinted with application flow see developer console in your web browser - requests and responses are logged to console.
+To debug and get acquainted with application flow see developer console in your web browser - requests and responses are logged to console.
